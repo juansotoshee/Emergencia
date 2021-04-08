@@ -1,0 +1,1059 @@
+﻿Log file open, 12/17/20 14:09:25
+LogInit: Display: Running engine for game: P_Emergencia
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.244004
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:251][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-17.09.26:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.17-17.09.26:262][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.17-17.09.26:262][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-17.09.26:262][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.17-17.09.26:263][  0]LogHAL: Display: Platform has ~ 16 GB [16980578304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.17-17.09.26:263][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-17.09.26:263][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:263][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.17-17.09.26:264][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Config/Windows/Engine.ini]
+[2020.12.17-17.09.26:264][  0]LogInit: Computer: TUF-GAMING
+[2020.12.17-17.09.26:265][  0]LogInit: User: Juan
+[2020.12.17-17.09.26:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.17-17.09.26:265][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.17-17.09.26:265][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.17-17.09.26:265][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.17-17.09.26:265][  0]LogMemory: Process Physical Memory: 113.99 MB used, 113.99 MB peak
+[2020.12.17-17.09.26:265][  0]LogMemory: Process Virtual Memory: 96.04 MB used, 96.04 MB peak
+[2020.12.17-17.09.26:265][  0]LogMemory: Physical Memory: 7816.96 MB used,  8376.98 MB free, 16193.94 MB total
+[2020.12.17-17.09.26:265][  0]LogMemory: Virtual Memory: 5143.37 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.17-17.09.26:275][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.17-17.09.26:336][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.17-17.09.26:337][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.17-17.09.26:337][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.12.17-17.09.26:595][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.17-17.09.26:669][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.17-17.09.26:669][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.17-17.09.26:947][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.12.17-17.09.26:947][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.17-17.09.26:947][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.17-17.09.26:947][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.17-17.09.26:987][  0]LogD3D11RHI:    0. 'Radeon RX 560X' (Feature Level 11_0)
+[2020.12.17-17.09.26:987][  0]LogD3D11RHI:       4078/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x1002
+[2020.12.17-17.09.27:018][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.12.17-17.09.27:018][  0]LogD3D11RHI:       112/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2020.12.17-17.09.27:023][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-17.09.27:023][  0]LogD3D11RHI:       0/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-17.09.27:025][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-17.09.27:026][  0]LogD3D11RHI:       0/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-17.09.27:030][  0]LogD3D11RHI:    4. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-17.09.27:030][  0]LogD3D11RHI:       0/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-17.09.27:033][  0]LogD3D11RHI:    5. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-17.09.27:033][  0]LogD3D11RHI:       0/0/8096 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-17.09.27:033][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.17-17.09.27:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.17-17.09.27:047][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.12.17-17.09.27:047][  0]LogWindows: EnumDisplayDevices:
+[2020.12.17-17.09.27:047][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2020.12.17-17.09.27:048][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:1)
+[2020.12.17-17.09.27:048][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:049][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:049][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:050][  0]LogWindows:    5. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:051][  0]LogWindows:    6. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:051][  0]LogWindows:    7. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:051][  0]LogWindows:    8. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:052][  0]LogWindows:    9. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.12.17-17.09.27:052][  0]LogWindows:    10. 'MS Idd Device' (P:0 D:1)
+[2020.12.17-17.09.27:052][  0]LogWindows:    11. 'MS Idd Device' (P:0 D:0)
+[2020.12.17-17.09.27:053][  0]LogWindows:    12. 'MS Idd Device' (P:0 D:0)
+[2020.12.17-17.09.27:053][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.17-17.09.27:053][  0]LogD3D11RHI:     Adapter Name: Radeon RX 560X
+[2020.12.17-17.09.27:053][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.17-17.09.27:053][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.17-17.09.27:053][  0]LogRHI: Texture pool is 2426 MB (70% of 3466 MB)
+[2020.12.17-17.09.27:158][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.12.17-17.09.27:158][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.17-17.09.27:158][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.17-17.09.27:176][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.12.17-17.09.27:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.17-17.09.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.17-17.09.27:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.17-17.09.27:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.17-17.09.27:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.17-17.09.27:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.17-17.09.27:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.17-17.09.27:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.17-17.09.27:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.17-17.09.27:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.17-17.09.27:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.17-17.09.27:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.17-17.09.27:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.17-17.09.27:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.17-17.09.27:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.17-17.09.27:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.17-17.09.27:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.17-17.09.27:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.17-17.09.27:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.17-17.09.27:883][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.17-17.09.27:899][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.17-17.09.28:026][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Intermediate/Shaders/WorkingDirectory/11784/).
+[2020.12.17-17.09.28:027][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/juans/AppData/Local/Temp/UnrealShaderWorkingDir/F1FC8228448A08E7304904ADA21FEA95/'.
+[2020.12.17-17.09.28:027][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.17-17.09.28:028][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.17-17.09.28:028][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.17-17.09.29:015][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/juans/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/juans/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../C137/DESARROLLOS/Emergencia/Construccion_Emergencia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../C137/DESARROLLOS/Emergencia/Construccion_Emergencia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-17.09.29:077][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.17-17.09.29:092][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.17-17.09.29:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-17.09.29:092][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.17-17.09.29:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/juans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.17-17.09.29:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.17-17.09.29:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.17-17.09.29:155][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.17-17.09.29:156][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.17-17.09.29:187][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2020.12.17-17.09.29:542][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-17.09.29:699][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.17-17.09.29:699][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.17-17.09.29:699][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.17-17.09.29:699][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.17-17.09.29:699][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.17-17.09.29:731][  0]LogNetVersion: P_Emergencia 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2760453874)
+[2020.12.17-17.09.30:273][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000204DA9542C0), frame # 0
+[2020.12.17-17.09.30:273][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204DA8B0F40), frame # 0
+[2020.12.17-17.09.30:275][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204DA918A00), frame # 0
+[2020.12.17-17.09.30:385][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.102958 seconds
+[2020.12.17-17.09.30:394][  0]LogUObjectArray: 15918 objects as part of root set at end of initial load.
+[2020.12.17-17.09.30:394][  0]LogUObjectAllocator: 3965776 out of 0 bytes used by permanent object pool.
+[2020.12.17-17.09.30:394][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.17-17.09.31:040][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.17-17.09.31:048][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.17-17.09.31:207][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.31:207][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.31:214][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.31:220][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.31:234][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.31:727][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.17-17.09.31:773][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.17-17.09.31:773][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.17-17.09.31:866][  0]LogOcInput: OculusInput pre-init called
+[2020.12.17-17.09.31:885][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.17-17.09.31:885][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.17-17.09.31:984][  0]LogEngine: Initializing Engine...
+[2020.12.17-17.09.31:985][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.12.17-17.09.31:985][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.17-17.09.31:987][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.17-17.09.32:138][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.17-17.09.32:153][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.17-17.09.32:153][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204DEC6FC00), frame # 0
+[2020.12.17-17.09.32:153][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204DEC8F380), frame # 0
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-17.09.32:178][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-17.09.32:178][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-17.09.32:179][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-17.09.32:179][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-17.09.32:201][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-17.09.32:201][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-17.09.32:314][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.17-17.09.32:318][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.17-17.09.32:321][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.17-17.09.32:321][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.17-17.09.32:324][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.17-17.09.32:326][  0]LogInit: FAudioDevice initialized.
+[2020.12.17-17.09.32:326][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.17-17.09.32:397][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/juans/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.17-17.09.32:404][  0]LogInit: Texture streaming: Enabled
+[2020.12.17-17.09.32:435][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.17-17.09.32:435][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.17-17.09.32:437][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.17-17.09.32:521][  0]LogInit: Transaction tracking system initialized
+[2020.12.17-17.09.32:565][  0]BlueprintLog: New page: Editor Load
+[2020.12.17-17.09.32:706][  0]LocalizationService: Localization service is disabled
+[2020.12.17-17.09.32:986][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.17-17.09.32:987][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.17-17.09.33:251][  0]LogFileCache: Scanning file cache for directory 'C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Content/' took 0.01s
+[2020.12.17-17.09.33:509][  0]SourceControl: Source control is disabled
+[2020.12.17-17.09.33:510][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.747
+[2020.12.17-17.09.33:510][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-17.09.33:510][  0]LightingResults: New page: Lighting Build
+[2020.12.17-17.09.33:511][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-17.09.33:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-17.09.33:512][  0]MapCheck: New page: Map Check
+[2020.12.17-17.09.33:512][  0]LightingResults: New page: Lighting Build
+[2020.12.17-17.09.33:523][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204DEC6FC00), frame # 0
+[2020.12.17-17.09.33:523][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204DEC8F380), frame # 0
+[2020.12.17-17.09.33:525][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.17-17.09.33:629][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.17-17.09.33:629][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204CE960800), frame # 0
+[2020.12.17-17.09.33:629][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204CEA291C0), frame # 0
+[2020.12.17-17.09.33:634][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.17-17.09.33:659][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.12.17-17.09.33:660][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-17.09.33:660][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2020.12.17-17.09.33:660][  0]LogFileHelpers: Loading map 'Template_Default' took 0.151
+[2020.12.17-17.09.33:662][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.900
+[2020.12.17-17.09.33:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-17.09.33:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-17.09.33:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-17.09.33:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-17.09.34:108][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.17-17.09.34:112][  0]LogSlate: Took 0.000530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.17-17.09.34:313][  0]LogRenderer: Reallocating scene render targets to support 904x704 Format 10 NumSamples 1 (Frame:1).
+[2020.12.17-17.09.34:521][  0]LogLoad: (Engine Initialization) Total time: 10.76 seconds
+[2020.12.17-17.09.34:521][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.17-17.09.34:576][  0]LogAssetRegistry: Asset discovery search completed in 5.3909 seconds
+[2020.12.17-17.09.34:598][  0]LogCollectionManager: Loaded 0 collections in 0.004937 seconds
+[2020.12.17-17.09.34:605][  0]LogFileCache: Scanning file cache for directory 'C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Saved/Collections/' took 0.00s
+[2020.12.17-17.09.34:605][  0]LogFileCache: Scanning file cache for directory 'C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Content/Developers/Juan/Collections/' took 0.00s
+[2020.12.17-17.09.34:605][  0]LogFileCache: Scanning file cache for directory 'C:/C137/DESARROLLOS/Emergencia/Construccion_Emergencia/Content/Collections/' took 0.00s
+[2020.12.17-17.09.34:605][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.17-17.09.34:607][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.17-17.09.57:606][448]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 3427 classes and 821 folders.
+[2020.12.17-17.09.57:615][448]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.17-17.09.57:682][448]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.17-17.09.57:686][448]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.17-17.09.57:702][448]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-17.10.10:660][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.17-17.10.16:668][218]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Female_Mannequin/Animations/Female/A_Equip_Pistol_Standing_rt_Female.A_Equip_Pistol_Standing_rt_Female
+[2020.12.17-17.10.16:668][218]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Female_Mannequin/Animations/Female/A_Idle_Pistol_Female.A_Idle_Pistol_Female
+[2020.12.17-17.10.16:932][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Body_Glow_master, compiling. 
+[2020.12.17-17.10.21:301][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 155
+[2020.12.17-17.10.21:301][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 145
+[2020.12.17-17.10.21:301][218]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 135
+[2020.12.17-17.10.21:301][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 125
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_M_Chrome (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_Color_Chrome (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_R_Scratched (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_M_Chrome_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_Color_Chrome_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_R_Scratched_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_M_Chipped_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_Color_ChippedRed_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogTexture: Display: Building textures: T_FemaleMannequin_R_Chipped_eyeless (DXT1, 2048X2048)
+[2020.12.17-17.10.21:301][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Arms_Form...
+[2020.12.17-17.10.21:323][218]LogSkeletalMesh: Section 0: 622 vertices, 13 active bones
+[2020.12.17-17.10.21:324][218]LogSkeletalMesh: Section 0: Material=0, 1096 triangles
+[2020.12.17-17.10.21:328][218]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Arms_Form.SK_Female_Arms_Form
+[2020.12.17-17.10.21:361][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Chest_and_Arms_Form...
+[2020.12.17-17.10.21:399][218]LogSkeletalMesh: Section 0: 1189 vertices, 15 active bones
+[2020.12.17-17.10.21:399][218]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2020.12.17-17.10.21:405][218]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Chest_and_Arms_Form.SK_Female_Chest_and_Arms_Form
+[2020.12.17-17.10.21:436][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Chest_Form...
+[2020.12.17-17.10.21:451][218]LogSkeletalMesh: Section 0: 567 vertices, 9 active bones
+[2020.12.17-17.10.21:451][218]LogSkeletalMesh: Section 0: Material=0, 984 triangles
+[2020.12.17-17.10.21:455][218]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Chest_Form.SK_Female_Chest_Form
+[2020.12.17-17.10.21:482][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Feet_Form...
+[2020.12.17-17.10.21:495][218]LogSkeletalMesh: Section 0: 442 vertices, 6 active bones
+[2020.12.17-17.10.21:495][218]LogSkeletalMesh: Section 0: Material=0, 692 triangles
+[2020.12.17-17.10.21:497][218]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Feet_Form.SK_Female_Feet_Form
+[2020.12.17-17.10.21:516][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Hair_Template...
+[2020.12.17-17.10.21:526][218]LogSkeletalMesh: Section 0: 320 vertices, 1 active bones
+[2020.12.17-17.10.21:526][218]LogSkeletalMesh: Section 0: Material=0, 244 triangles
+[2020.12.17-17.10.21:529][218]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2020.12.17-17.10.21:546][218]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2020.12.17-17.10.21:546][218]LogSkeletalMesh: Section 0: 274 vertices, 1 active bones
+[2020.12.17-17.10.21:546][218]LogSkeletalMesh: Section 0: Material=0, 194 triangles
+[2020.12.17-17.10.21:563][218]LogSkeletalMesh: Section 0: 208 vertices, 1 active bones
+[2020.12.17-17.10.21:563][218]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Hair_Template.SK_Female_Hair_Template
+[2020.12.17-17.10.21:689][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Headless_Form...
+[2020.12.17-17.10.21:803][218]LogSkeletalMesh: Section 0: 3777 vertices, 51 active bones
+[2020.12.17-17.10.21:805][218]LogSkeletalMesh: Section 0: Material=0, 6272 triangles
+[2020.12.17-17.10.21:825][218]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Headless_Form.SK_Female_Headless_Form
+[2020.12.17-17.10.21:857][218]LogSkeletalMesh: Building Skeletal Mesh SK_Female_Legs_Form...
+[2020.12.17-17.10.21:882][218]LogSkeletalMesh: Section 0: 912 vertices, 11 active bones
+[2020.12.17-17.10.21:882][218]LogSkeletalMesh: Section 0: Material=0, 1572 triangles
+[2020.12.17-17.10.21:887][218]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Female_Legs_Form.SK_Female_Legs_Form
+[2020.12.17-17.10.21:919][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Arms_Form...
+[2020.12.17-17.10.21:943][218]LogSkeletalMesh: Section 0: 802 vertices, 14 active bones
+[2020.12.17-17.10.21:944][218]LogSkeletalMesh: Section 0: Material=0, 1298 triangles
+[2020.12.17-17.10.21:949][218]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Arms_Form.SK_Male_Arms_Form
+[2020.12.17-17.10.21:987][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Chest_and_Arms_Form...
+[2020.12.17-17.10.22:028][218]LogSkeletalMesh: Section 0: 1505 vertices, 18 active bones
+[2020.12.17-17.10.22:029][218]LogSkeletalMesh: Section 0: Material=0, 2576 triangles
+[2020.12.17-17.10.22:036][218]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Chest_and_Arms_Form.SK_Male_Chest_and_Arms_Form
+[2020.12.17-17.10.22:067][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Chest_Form...
+[2020.12.17-17.10.22:092][218]LogSkeletalMesh: Section 0: 734 vertices, 12 active bones
+[2020.12.17-17.10.22:092][218]LogSkeletalMesh: Section 0: Material=0, 1248 triangles
+[2020.12.17-17.10.22:097][218]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Chest_Form.SK_Male_Chest_Form
+[2020.12.17-17.10.22:139][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Feet_Form...
+[2020.12.17-17.10.22:174][218]LogSkeletalMesh: Section 0: 1300 vertices, 8 active bones
+[2020.12.17-17.10.22:174][218]LogSkeletalMesh: Section 0: Material=0, 2108 triangles
+[2020.12.17-17.10.22:181][218]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Feet_Form.SK_Male_Feet_Form
+[2020.12.17-17.10.22:228][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Hands...
+[2020.12.17-17.10.22:286][218]LogSkeletalMesh: Section 0: 1986 vertices, 34 active bones
+[2020.12.17-17.10.22:286][218]LogSkeletalMesh: Section 0: Material=0, 3374 triangles
+[2020.12.17-17.10.22:299][218]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Hands.SK_Male_Hands
+[2020.12.17-17.10.22:369][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Headless_Form...
+[2020.12.17-17.10.22:487][218]LogSkeletalMesh: Section 0: 3777 vertices, 51 active bones
+[2020.12.17-17.10.22:488][218]LogSkeletalMesh: Section 0: Material=0, 6272 triangles
+[2020.12.17-17.10.22:508][218]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Headless_Form.SK_Male_Headless_Form
+[2020.12.17-17.10.22:540][218]LogSkeletalMesh: Building Skeletal Mesh SK_Male_Legs_Form...
+[2020.12.17-17.10.22:565][218]LogSkeletalMesh: Section 0: 933 vertices, 13 active bones
+[2020.12.17-17.10.22:565][218]LogSkeletalMesh: Section 0: Material=0, 1554 triangles
+[2020.12.17-17.10.22:569][218]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Female_Mannequin/Meshes/BodyForms/SK_Male_Legs_Form.SK_Male_Legs_Form
+[2020.12.17-17.10.22:584][218]LogStaticMesh: Building static mesh SM_TemplateFloor...
+[2020.12.17-17.10.22:587][218]LogStaticMesh: Built static mesh [0.00s] /Game/Female_Mannequin/Meshes/Env/SM_TemplateFloor.SM_TemplateFloor
+[2020.12.17-17.10.22:609][218]LogSkeletalMesh: Building Skeletal Mesh SK_F_MNQ_Feet_Ballerina...
+[2020.12.17-17.10.22:615][218]LogSkeletalMesh: Section 0: 252 vertices, 4 active bones
+[2020.12.17-17.10.22:616][218]LogSkeletalMesh: Section 0: Material=0, 380 triangles
+[2020.12.17-17.10.22:617][218]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Female_Mannequin/Meshes/Female_Mannequin/Modular/SK_F_MNQ_Feet_Ballerina.SK_F_MNQ_Feet_Ballerina
+[2020.12.17-17.10.22:691][218]LogSkeletalMesh: Building Skeletal Mesh SK_F_MNQ_Legs_buttless...
+[2020.12.17-17.10.22:813][218]LogSkeletalMesh: Section 0: 1298 vertices, 7 active bones
+[2020.12.17-17.10.22:813][218]LogSkeletalMesh: Section 1: 2694 vertices, 7 active bones
+[2020.12.17-17.10.22:815][218]LogSkeletalMesh: Section 0: Material=0, 2148 triangles
+[2020.12.17-17.10.22:815][218]LogSkeletalMesh: Section 1: Material=1, 4488 triangles
+[2020.12.17-17.10.22:843][218]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Female_Mannequin/Meshes/Female_Mannequin/Modular/SK_F_MNQ_Legs_buttless.SK_F_MNQ_Legs_buttless
+[2020.12.17-17.10.23:250][218]LogSkeletalMesh: Building Skeletal Mesh SK_F_MNQ_Cyborg...
+[2020.12.17-17.10.24:204][218]LogSkeletalMesh: Section 0: 1864 vertices, 8 active bones
+[2020.12.17-17.10.24:204][218]LogSkeletalMesh: Section 1: 578 vertices, 1 active bones
+[2020.12.17-17.10.24:208][218]LogSkeletalMesh: Section 2: 15073 vertices, 51 active bones
+[2020.12.17-17.10.24:210][218]LogSkeletalMesh: Section 3: 8812 vertices, 44 active bones
+[2020.12.17-17.10.24:218][218]LogSkeletalMesh: Section 0: Material=0, 3142 triangles
+[2020.12.17-17.10.24:218][218]LogSkeletalMesh: Section 1: Material=1, 1088 triangles
+[2020.12.17-17.10.24:218][218]LogSkeletalMesh: Section 2: Material=2, 24712 triangles
+[2020.12.17-17.10.24:218][218]LogSkeletalMesh: Section 3: Material=3, 14708 triangles
+[2020.12.17-17.10.24:395][218]LogSkeletalMesh: Built Skeletal Mesh [1.14s] /Game/Female_Mannequin/Meshes/Female_Mannequin/Standalone/SK_F_MNQ_Cyborg.SK_F_MNQ_Cyborg
+[2020.12.17-17.10.24:762][218]LogSkeletalMesh: Building Skeletal Mesh SK_F_MNQ_Eyeless...
+[2020.12.17-17.10.25:599][218]LogSkeletalMesh: Section 0: 861 vertices, 8 active bones
+[2020.12.17-17.10.25:602][218]LogSkeletalMesh: Section 1: 15073 vertices, 51 active bones
+[2020.12.17-17.10.25:605][218]LogSkeletalMesh: Section 2: 8812 vertices, 44 active bones
+[2020.12.17-17.10.25:611][218]LogSkeletalMesh: Section 0: Material=0, 1456 triangles
+[2020.12.17-17.10.25:611][218]LogSkeletalMesh: Section 1: Material=1, 24712 triangles
+[2020.12.17-17.10.25:611][218]LogSkeletalMesh: Section 2: Material=2, 14708 triangles
+[2020.12.17-17.10.25:769][218]LogSkeletalMesh: Built Skeletal Mesh [1.01s] /Game/Female_Mannequin/Meshes/Female_Mannequin/Standalone/SK_F_MNQ_Eyeless.SK_F_MNQ_Eyeless
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_D_cream (DXT1, 256X256)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_E_full (BGRA8, 16X16)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_E_grad (BGRA8, 128X128)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_E_none (BGRA8, 16X16)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_IDs_check (DXT1, 256X256)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_M (DXT1, 512X512)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_R_average (G8, 128X128)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_Stencil_check (BGRA8, 256X256)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_Common_White_noSRGB_Grayscale (G8, 32X32)
+[2020.12.17-17.10.26:630][218]LogTexture: Display: Building textures: T_FemaleMannequin_AndroidHead_Color_Flesh_shell_eyes (DXT1, 2048X2048)
+[2020.12.17-17.10.26:630][218]LogObjectTools: Deleting 1 worlds: /Game/Female_Mannequin/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.17-17.10.26:630][218]LogObjectTools: Currently 1 active worlds: /Temp/Untitled_1.Untitled_1
+[2020.12.17-17.10.26:669][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.17-17.10.27:399][218]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 115
+[2020.12.17-17.10.27:984][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 105
+[2020.12.17-17.10.28:984][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 95
+[2020.12.17-17.10.29:178][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 85
+[2020.12.17-17.10.29:499][218]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.17-17.10.33:485][218]LogUObjectGlobals: Force Deleting 293 Package(s):
+	Asset Name: /Game/Female_Mannequin/Animations/Female/ABP_ThirdPerson_Female.ABP_ThirdPerson_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_Equip_Pistol_Standing_rt_Female.A_Equip_Pistol_Standing_rt_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_Idle_Pistol_Female.A_Idle_Pistol_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_Jog_Fwd_Rifle_Female.A_Jog_Fwd_Rifle_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_CustomRun_Female.A_PO_CustomRun_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_FeminineIdle_with_blink_curve_Female.A_PO_FeminineIdle_with_blink_curve_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_MorphsChecker_Female.A_PO_MorphsChecker_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_Sprint_pose_Female.A_PO_Sprint_pose_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_Straight_pose_Female.A_PO_Straight_pose_Female
+	Asset Name: /Game/Female_Mannequin/Animations/Female/A_PO_SwordDash_pose_Female.A_PO_SwordDash_pose_Female
+[2020.12.17-17.10.33:517][218]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-17.10.34:513][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.12.17-17.10.35:502][218]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2020.12.17-17.10.35:739][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.12.17-17.10.35:741][218]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_BP_Hair_Assembly_C_15 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_BP_Hair_Assembly_C_4. Reference will be nullptred.
+    Property = ObjectProperty /Game/Female_Mannequin/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:Hair_Assembly_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty
+    Item = REINST_BP_Hair_Assembly_C_15 /Game/Female_Mannequin/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Hair_Assembly_2
+[2020.12.17-17.10.35:751][218]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_BP_Hair_Assembly_C_15 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_BP_Hair_Assembly_C_4. Reference will be nullptred.
+    Property = ObjectProperty /Game/Female_Mannequin/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:Hair_Assembly_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty
+    Item = REINST_BP_Hair_Assembly_C_15 /Game/Female_Mannequin/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Hair_Assembly_2
+[2020.12.17-17.10.37:001][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.12.17-17.10.37:415][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:416][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:416][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:418][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:419][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:419][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:421][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:423][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:423][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:425][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:426][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:426][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:428][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:429][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:429][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:431][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:432][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:432][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:434][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:435][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:435][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:437][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:438][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:438][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:440][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:441][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:441][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:444][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:445][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:445][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:448][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:449][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:450][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:451][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_body_Master, compiling. 
+[2020.12.17-17.10.37:452][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_body_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:452][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:486][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:489][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:489][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:491][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:493][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:494][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:497][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:499][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:500][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:502][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:505][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:505][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:507][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:510][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:510][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:513][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:516][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:516][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:519][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:521][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:521][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:523][218]LogMaterial: Display: Missing cached shader map for material M_Hair_master, compiling. 
+[2020.12.17-17.10.37:525][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_Hair_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:525][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:583][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:584][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:584][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:586][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:587][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:587][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:589][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:590][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:591][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:593][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:594][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:594][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:596][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:597][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:597][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:600][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:601][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:601][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:605][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:605][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:606][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:608][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:609][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:609][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:611][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:612][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:612][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:615][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_joints, compiling. 
+[2020.12.17-17.10.37:616][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_joints.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:616][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:620][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:621][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:621][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:624][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:625][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:625][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:627][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:628][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:628][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:631][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:632][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:632][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:634][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:635][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:635][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:638][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:639][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:639][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:641][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:642][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:642][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:644][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:645][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:645][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:648][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:649][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:649][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:651][218]LogMaterial: Display: Missing cached shader map for material M_Human_Form_master, compiling. 
+[2020.12.17-17.10.37:653][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\BodyForms\M_Human_Form_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:653][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:779][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:780][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:780][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:786][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:787][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:787][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:790][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:791][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:791][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:792][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:793][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:793][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:795][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:796][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:796][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:798][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:799][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:800][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:802][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:803][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:803][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:804][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:805][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:805][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:809][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:810][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:810][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:812][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:813][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:813][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:815][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:816][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:817][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:819][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:821][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:821][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:823][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:824][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:825][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:826][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:828][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:828][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:831][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:832][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:833][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:835][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:835][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:836][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:837][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:839][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:839][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:842][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:843][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:843][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:845][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:846][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:846][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:849][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:851][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:851][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:853][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:854][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:854][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:856][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:857][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:857][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:859][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:860][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:860][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:862][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:863][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:863][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:866][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:867][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:867][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:870][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:871][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:871][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:874][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:875][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:875][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:877][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:879][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:879][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.37:881][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Human_Flesh_Master, compiling. 
+[2020.12.17-17.10.37:882][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Human_Flesh_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.37:882][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.38:220][218]LogMaterial: Display: Missing cached shader map for material M_FemaleMannequin_Eyes_master, compiling. 
+[2020.12.17-17.10.38:220][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Female_Mannequin\M_FemaleMannequin_Eyes_master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.38:221][218]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-17.10.39:041][218]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (4 / 2)
+[2020.12.17-17.10.39:064][218]LogMaterial: Display: Missing cached shader map for material M_Poster, compiling. 
+[2020.12.17-17.10.39:065][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Env\M_Poster.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.39:065][218]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-17.10.39:078][218]LogMaterial: Display: Missing cached shader map for material M_Grid_Floor_master, compiling. 
+[2020.12.17-17.10.39:079][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Env\M_Grid_Floor_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.39:079][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.39:081][218]LogMaterial: Display: Missing cached shader map for material M_Grid_Floor_master, compiling. 
+[2020.12.17-17.10.39:083][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Env\M_Grid_Floor_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.39:083][218]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.12.17-17.10.39:496][218]LogStaticMesh: Building static mesh SM_1M_Cube...
+[2020.12.17-17.10.39:500][218]LogStaticMesh: Built static mesh [0.00s] /Game/Female_Mannequin/Meshes/Env/SM_1M_Cube.SM_1M_Cube
+[2020.12.17-17.10.39:503][218]LogStaticMesh: Building static mesh SM_1M_Cube_Chamfer...
+[2020.12.17-17.10.39:508][218]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Mannequin/Meshes/Env/SM_1M_Cube_Chamfer.SM_1M_Cube_Chamfer
+[2020.12.17-17.10.39:535][218]LogStaticMesh: Building static mesh SM_Base...
+[2020.12.17-17.10.39:717][218]LogStaticMesh: Built static mesh [0.18s] /Game/Female_Mannequin/Meshes/Env/SM_Base.SM_Base
+[2020.12.17-17.10.39:984][218]LogStaticMesh: Building static mesh SM_Bump_StaticMesh...
+[2020.12.17-17.10.39:988][218]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Mannequin/Meshes/Env/SM_Bump_StaticMesh.SM_Bump_StaticMesh
+[2020.12.17-17.10.39:993][218]LogMaterial: Display: Missing cached shader map for material M_Color_Checker, compiling. 
+[2020.12.17-17.10.39:994][218]LogMaterial: Warning: C:\C137\DESARROLLOS\Emergencia\Construccion_Emergencia\Content\Female_Mannequin\Materials\Env\M_Color_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.12.17-17.10.39:994][218]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.12.17-17.10.39:995][218]LogStaticMesh: Building static mesh SM_Color_Checker...
+[2020.12.17-17.10.40:000][218]LogStaticMesh: Built static mesh [0.00s] /Game/Female_Mannequin/Meshes/Env/SM_Color_Checker.SM_Color_Checker
+[2020.12.17-17.10.40:003][218]LogStaticMesh: Building static mesh SM_LeftArm_StaticMesh...
+[2020.12.17-17.10.40:007][218]LogStaticMesh: Built static mesh [0.00s] /Game/Female_Mannequin/Meshes/Env/SM_LeftArm_StaticMesh.SM_LeftArm_StaticMesh
+[2020.12.17-17.10.40:010][218]LogStaticMesh: Building static mesh SM_Linear_Stair_StaticMesh...
+[2020.12.17-17.10.40:017][218]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Mannequin/Meshes/Env/SM_Linear_Stair_StaticMesh.SM_Linear_Stair_StaticMesh
+[2020.12.17-17.10.40:021][218]LogStaticMesh: Building static mesh SM_Ramp_StaticMesh...
+[2020.12.17-17.10.40:027][218]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Mannequin/Meshes/Env/SM_Ramp_StaticMesh.SM_Ramp_StaticMesh
+[2020.12.17-17.10.40:030][218]LogStaticMesh: Building static mesh SM_RightArm_StaticMesh...
+[2020.12.17-17.10.40:035][218]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Mannequin/Meshes/Env/SM_RightArm_StaticMesh.SM_RightArm_StaticMesh
+[2020.12.17-17.10.43:181][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.12.17-17.10.43:806][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.12.17-17.10.43:999][218]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.17-17.10.43:999][218]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
